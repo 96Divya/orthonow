@@ -3,7 +3,7 @@ OrthoNow Developer Assignment
 
 Project Overview
 
-This Project was completed as a part of the NAmoza Developer Assignment for the Developer Position. The objective was to improve OrthoNow's Consultation booking experience by creating a responsive landing page , desigining a GTM event tracking schema , and proposing an integration architecture for HubSpot Crm,  Karix WhatsApp API and Google Ads .
+This Project was completed as a part of the Namoza Developer Assignment for the Developer Position. The objective was to improve OrthoNow's Consultation booking experience by creating a responsive landing page , desigining a GTM event tracking schema , and proposing an integration architecture for HubSpot Crm,  Karix WhatsApp API and Google Ads .
 
 
 Features
