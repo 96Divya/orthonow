@@ -34,7 +34,7 @@ orthonow-assignment/
 │   ├── task1-gtm-event-schema.md
 │   └── task3-integration-design.md
 ├── screenshots/
-├── landing-page.html
+├── index.html
 └── README.md
 
 
