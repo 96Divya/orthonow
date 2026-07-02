@@ -75,7 +75,7 @@ The funnel in GA4 will be configured using the following steps:
 
 1. booking_step_complete (Step 1 - Location & Specialty Selected)
 2. booking_step_complete (Step 2 - Patient Details Entered)
-3. booking_completed (Step 3 - Booking Confirm
+3. booking_completed (Step 3 - Booking Confirmed)
 
 ---
 
@@ -95,8 +95,9 @@ By tracking each step separately, GA4 Funnel Exploration can identify the percen
 
 ### Conversion to Import
 
-**booking_completed**
+**consultation_form_submitted**
 
 ### Reason
 
-The `booking_completed` event represents a successful consultation booking and is the strongest indicator of a qualified lead. Importing this event into Google Ads allows Smart Bidding strategies (such as Maximize Conversions or Target CPA) to optimize campaigns toward users who complete the full booking process instead of those who only begin it.
+The `consultation_form_submitted`
+ event represents a successful consultation booking and is the strongest indicator of a qualified lead. Importing this event into Google Ads allows Smart Bidding strategies (such as Maximize Conversions or Target CPA) to optimize campaigns toward users who complete the full booking process instead of those who only begin it.
