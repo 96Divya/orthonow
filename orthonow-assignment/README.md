@@ -40,8 +40,8 @@ orthonow-assignment/
 
 How To Run 
 
-Download ot clone the repository
-Open the Landing-page.html 
+Download the clone the repository
+Open the index.html 
 Fill the Consultation form 
 Submit the form to view the thank - you message and verify the dataLayer.push() event in console
 
